@@ -43,7 +43,7 @@ sbt test
 - Balancing Workload Across Nodes with Akka 2 - http://letitcrash.com/post/29044669086/balancing-workload-across-nodes-with-akka-2
 - Throttling Messages in Akka 2               - http://letitcrash.com/post/28901663062/throttling-messages-in-akka-2
 - Shutdown Patterns in Akka 2                 - http://letitcrash.com/post/30165507578/shutdown-patterns-in-akka-2
-
+- An Akka 2 Terminator                        - http://letitcrash.com/post/29773618510/an-akka-2-terminator
 
 
 
