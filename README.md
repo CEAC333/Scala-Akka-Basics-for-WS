@@ -45,5 +45,8 @@ sbt test
 - Shutdown Patterns in Akka 2                 - http://letitcrash.com/post/30165507578/shutdown-patterns-in-akka-2
 - An Akka 2 Terminator                        - http://letitcrash.com/post/29773618510/an-akka-2-terminator
 
+# Books 
+- Building Applications in Scala (2016) - http://sd.blackball.lv/library/Building_Applications_with_Scala_(2016).pdf
+
 
 
