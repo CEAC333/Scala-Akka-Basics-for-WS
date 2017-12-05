@@ -2,8 +2,7 @@
 
 # Installation 
 ### Installing IntelliJ for Scala Development
-Setup IntelliJ with Scala:
-- https://www.youtube.com/watch?v=A2c4mDDn-QM
+https://www.youtube.com/watch?v=A2c4mDDn-QM
 ### Installing Postman
 https://www.getpostman.com/apps
 
