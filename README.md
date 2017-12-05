@@ -26,4 +26,7 @@ Setup IntelliJ with Scala:
 - Stream Graphs                           - https://doc.akka.io/docs/akka/current/stream/stream-graphs.html?language=scala
 - Stream IO                               - https://doc.akka.io/docs/akka-stream-and-http-experimental/1.0/scala/stream-io.html
 
+# Installing Postman
+https://www.getpostman.com/apps
+
 
