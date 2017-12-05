@@ -1,8 +1,11 @@
 # Scala-Basics-for-WS
 
 # Installation 
+### Installing IntelliJ for Scala Development
 Setup IntelliJ with Scala:
 - https://www.youtube.com/watch?v=A2c4mDDn-QM
+### Installing Postman
+https://www.getpostman.com/apps
 
 # Useful commands
 #### Inside the Project Folder with the Terminal:
@@ -40,7 +43,6 @@ sbt test
 
 - Balancing Workload Across Nodes with Akka 2 - http://letitcrash.com/post/29044669086/balancing-workload-across-nodes-with-akka-2
 
-# Installing Postman
-https://www.getpostman.com/apps
+
 
 
