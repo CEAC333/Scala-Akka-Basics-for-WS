@@ -7,11 +7,11 @@ Setup IntelliJ with Scala:
 # Useful commands
 #### Inside the Project Folder with the Terminal:
 
-Run the Project
+Run Project
 ```
 sbt run
 ```
-Run the Tests
+Run Tests
 ```
 sbt test
 ```
