@@ -45,6 +45,12 @@ sbt test
 - Shutdown Patterns in Akka 2                 - http://letitcrash.com/post/30165507578/shutdown-patterns-in-akka-2
 - An Akka 2 Terminator                        - http://letitcrash.com/post/29773618510/an-akka-2-terminator
 
+# Related Concepts
+
+### Latency - Percentiles (Table)
+![Latency - Percentiles (Table)](https://lh6.googleusercontent.com/fY4Lijccstukuerm7YTsNqso8F4e-8_EBMWG7ub01ui6PjxGhFKVTs6mFjSlItk9-TaDiwQutnmESRbchuuF=w2870-h1442-rw)
+
+
 # Books 
 - Building Applications in Scala (2016) - http://sd.blackball.lv/library/Building_Applications_with_Scala_(2016).pdf
 - Scala High Performance Programming - http://ebook.pldworld.com/_eBook/-Packt%20Publishing%20Limited-/9781786466044-SCALA_HIGH_PERFORMANCE_PROGRAMMING.pdf
