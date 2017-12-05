@@ -4,6 +4,18 @@
 Setup IntelliJ with Scala:
 - https://www.youtube.com/watch?v=A2c4mDDn-QM
 
+# Useful commands
+#### Inside the Project Folder with the Terminal:
+
+Run the Project
+```
+sbt run
+```
+Run the Tests
+```
+sbt test
+```
+
 # Documentation Resources & Repos
 - General                                 - https://akka.io/docs/
 - Actors Become/Unbecome                  - https://doc.akka.io/docs/akka/snapshot/actors.html?language=scala#Become_Unbecome
@@ -25,6 +37,8 @@ Setup IntelliJ with Scala:
 - Testing Streams                         - https://doc.akka.io/docs/akka-stream-and-http-experimental/1.0/scala/stream-testkit.html
 - Stream Graphs                           - https://doc.akka.io/docs/akka/current/stream/stream-graphs.html?language=scala
 - Stream IO                               - https://doc.akka.io/docs/akka-stream-and-http-experimental/1.0/scala/stream-io.html
+
+- Balancing Workload Across Nodes with Akka 2 - http://letitcrash.com/post/29044669086/balancing-workload-across-nodes-with-akka-2
 
 # Installing Postman
 https://www.getpostman.com/apps
