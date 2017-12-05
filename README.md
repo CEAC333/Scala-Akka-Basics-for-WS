@@ -41,6 +41,7 @@ sbt test
 - Stream IO                               - https://doc.akka.io/docs/akka-stream-and-http-experimental/1.0/scala/stream-io.html
 
 - Balancing Workload Across Nodes with Akka 2 - http://letitcrash.com/post/29044669086/balancing-workload-across-nodes-with-akka-2
+- Throttling Messages in Akka 2 - http://letitcrash.com/post/28901663062/throttling-messages-in-akka-2
 
 
 
