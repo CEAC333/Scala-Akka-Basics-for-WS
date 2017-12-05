@@ -47,6 +47,5 @@ sbt test
 
 # Books 
 - Building Applications in Scala (2016) - http://sd.blackball.lv/library/Building_Applications_with_Scala_(2016).pdf
-
-
+- Scala High Performance Programming - http://ebook.pldworld.com/_eBook/-Packt%20Publishing%20Limited-/9781786466044-SCALA_HIGH_PERFORMANCE_PROGRAMMING.pdf
 
