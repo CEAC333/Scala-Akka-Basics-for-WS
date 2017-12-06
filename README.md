@@ -80,6 +80,10 @@ https://lh3.googleusercontent.com/3_7YiuvPu7vuUZrjgk1S1hxOIb267mhDg59yxEwW5clh6C
 https://lh3.googleusercontent.com/wCywzsdlzfaZzu2sg9BCWI-7C4b1S6M2w0IyTiX6E4QYV57CZYNbNLLmPm1NvY-vCoJZvktjK1BADsheoRpbwZvwc-ZEScpRVDNXapjH3o82_jWYoS78D329_iXQrREQw2v7aq5gxY4N8pN0-3KFV03xMxiJjCdA28L36NNR7_4uJVhXQaEwMfkpShXNXa96AvPGIHk_GlTzpVvNxD2fK-uaiCCUaLoH4OB6KJ2M9AxAwBdfhfU4NhT_CRktAq-hHfVA5faqQPSoRhVQ4ToJyKNu5LOg-vQXiVFuUG5X_Qgr8Jdt-rdCmGNRQksIcwzj3NbH3xCYTSElLKBoBC_903oEa695OVrpbvuYeYk6J11tWp_XUi9DvPsZa_wKhD37iBWntgViT3CNJi9CaB1nwblh4O8oB3Ky0iuO6pO7aNrGEDlIzTCGBiUjRN9Hr-BTED0xNhtIR8_55vHsiYCuBhBbY14eAYaevwk4_mfvT_dqZ1ahCa2yVYcuLebtziua1cwlnKfhsVfvdNjSVWOLJMa61bb2wU9DtRsPJxhrkfi926n-e-zFXwiqYceCV-5g=w2880-h1652
 )
 
+# Testing
+
+- Performace Testing - https://gatling.io/
+
 
 # Books 
 - Building Applications in Scala (2016) - http://sd.blackball.lv/library/Building_Applications_with_Scala_(2016).pdf
