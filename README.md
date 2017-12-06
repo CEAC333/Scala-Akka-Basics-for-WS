@@ -1,4 +1,4 @@
-# Scala-Basics-for-WS
+# Scala-Akka-Basics-for-WS
 
 # Installation 
 ### Installing IntelliJ for Scala Development
