@@ -1,0 +1,162 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/Greeter$$anonfun$receive$1.class
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/Greeter.class
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/HelloAkkaScala$.class
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/HelloAkkaScala$delayedInit$body.class
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/HelloAkkaScala.class
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/WhoToGreet$.class
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/WhoToGreet.class
+binary dependencies:
+3 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> /Users/carlosavila/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Greeter
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Greeter$$anonfun$receive$1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> HelloAkkaScala
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> HelloAkkaScala$
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> HelloAkkaScala$delayedInit$body
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> WhoToGreet
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> WhoToGreet$
+used names:
+52 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> !
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> &&
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> <init>
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> ==
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> A1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> AbstractFunction1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Actor
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> ActorRef
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> ActorSystem
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> App
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> B1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> ClassTag
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Function1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Greeter
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> HelloAkkaScala
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> None
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Predef
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Product
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Props
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> ScalaRunTime
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> Serializable
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> String
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> StringContext
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> WhoToGreet
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> _hashCode
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> _toString
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> actor
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> actorOf
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> actorRef2Scala
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> akka
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> apply
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> asInstanceOf
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> concurrent
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> duration
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> eq
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> greeter
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> isInstanceOf
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> materializeClassTag
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> package
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> println
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> qual$1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> runtime
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> s
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> scala
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> system
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> toString
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> typedProductIterator
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> unchecked
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> who
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> x$1
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> x$2
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> ||
+product stamps:
+7 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/Greeter$$anonfun$receive$1.class -> lastModified(1512070195000)
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/Greeter.class -> lastModified(1512070195000)
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/HelloAkkaScala$.class -> lastModified(1512070195000)
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/HelloAkkaScala$delayedInit$body.class -> lastModified(1512070195000)
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/HelloAkkaScala.class -> lastModified(1512070195000)
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/WhoToGreet$.class -> lastModified(1512070195000)
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/target/scala-2.11/classes/WhoToGreet.class -> lastModified(1512070195000)
+source stamps:
+1 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> hash(24d9dda9dcc9e6b48b690ba576fe8ac5d1b57a99)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1504666619000)
+/Users/carlosavila/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> lastModified(1443601439000)
+/Users/carlosavila/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/carlosavila/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> akka.actor.Actor
+/Users/carlosavila/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAk5bUmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwONxL6XQABHNlbGZzcQB+AAsFPTx2dAAHY29udGV4dHVxAH4ACQAAADNzcQB+AAuQqXiXdAAGbm90aWZ5c3EAfgALi0HT03QAB1JlY2VpdmVzcQB+AAsLm9sMdAAHZ3JlZXRlcnNxAH4AC8zrB9N0AAR3YWl0c3EAfgALe8M1mnQADSRhc0luc3RhbmNlT2ZzcQB+AAsJ0J9odAAOSGVsbG9Ba2thU2NhbGFzcQB+AAsjIRoXdAAGc3lzdGVtc3EAfgALOaDkZHQAB0dyZWV0ZXJzcQB+AAuSH5exdAAMcHJvZHVjdEFyaXR5c3EAfgALzi5aoXQABmVxdWFsc3NxAH4ACzqxvIp0AAxhc0luc3RhbmNlT2ZzcQB+AAuNLh/XdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAtjRfhDdAAMc3luY2hyb25pemVkc3EAfgALEZTzznQADSRpc0luc3RhbmNlT2ZzcQB+AAs1MZwgdAAHcmVjZWl2ZXNxAH4ACygP+Ut0AApwcmVSZXN0YXJ0c3EAfgALMO2OIHQADWFyb3VuZFJlY2VpdmVzcQB+AAvqZKWgdAAIY2FuRXF1YWxzcQB+AAvMvCXWdAALcG9zdFJlc3RhcnRzcQB+AAtPDa/UdAAEbWFpbnNxAH4AC9XeXg90AAhwb3N0U3RvcHNxAH4AC9NyJ+p0AA1wcm9kdWN0UHJlZml4c3EAfgALj9dpO3QACW5vdGlmeUFsbHNxAH4AC9bGqdV0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACzGvemN0AAxpc0luc3RhbmNlT2ZzcQB+AAstoz5vdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC7HKG7F0AA5hcm91bmRQb3N0U3RvcHNxAH4ACyV9Fgl0AAY8aW5pdD5zcQB+AAt80bgPdAAIcHJlU3RhcnRzcQB+AAvmyE6LdAAJdW5oYW5kbGVkc3EAfgALFTF24XQAA3dob3NxAH4AC2rqHwl0AApXaG9Ub0dyZWV0c3EAfgALfwshLHQAAj09c3EAfgAL5MG72XQABWNsb25lc3EAfgAL2mmBRHQABGNvcHlzcQB+AAvHeG9SdAAGc2VuZGVyc3EAfgALmMyn33QACHRvU3RyaW5nc3EAfgALe9ivTHQABGFyZ3NzcQB+AAvOQw+NdAACIT1zcQB+AAuqDT4JdAAIZ2V0Q2xhc3NzcQB+AAsMrNr8dAAOY29weSRkZWZhdWx0JDFzcQB+AAsMbfpidAACbmVzcQB+AAvW9+dVdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALAT+gP3QAAmVxc3EAfgALHx+563QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC407DJ50AAtkZWxheWVkSW5pdHNxAH4ACxGeL750AAIjI3NxAH4AC+dQM850AAhmaW5hbGl6ZXNxAH4ACwBUMit0AA5wcm9kdWN0RWxlbWVudHNxAH4ACyuHdWZ0AAhoYXNoQ29kZXNxAH4AC+yL8iF0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AUXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGF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8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgCxdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ALVzcQB+ALh1cQB+ALsAAAACc3EAfgC9cQB+AMBxAH4AwnNxAH4AjgBxAH4AOXVxAH4AkAAAAABzcQB+ALF0AARVbml0cQB+ASR1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgEVeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCTdAAFUGxhaW5xAH4AXXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AslsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoHNxAH4AsXQABUFycmF5cQB+ASR1cQB+AK8AAAABc3EAfgCxdAAGU3RyaW5nc3EAfgC1c3EAfgC4dXEAfgC7AAAAA3NxAH4AvXEAfgDIc3EAfgC9cQB+ANZxAH4AwnNxAH4AmABwc3EAfgCddXEAfgCvAAAABHNxAH4AsXQAA0FwcHEAfgEkc3EAfgCxdAALRGVsYXllZEluaXRxAH4BJHNxAH4AsXEAfgDQcQB+AUFzcQB+ALFxAH4A2HEAfgEkdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWAOaALvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAjy9Vc2Vycy9jYXJsb3NhdmlsYS9JZGVhUHJvamVjdHMvY29kZSAtIExlYXJuaW5nIFBhdGggQWtrYSBCdWlsZGluZyBBcHBsaWNhdGlvbnMgYW5kIE1pY3Jvc2VydmljZXMvc2VjdGlvbjEvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUJNndqdzJ5rSLaQuldv6KxdG1epk=
+external apis:
+0 items
+source infos:
+1 items
+/Users/carlosavila/IdeaProjects/code - Learning Path Akka Building Applications and Microservices/section1/Hello Akka/src/main/scala/HelloAkka.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZz1rw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZz7IJJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZ0f2+x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZ1LFvV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTaUOKSJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTcmIq7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTcshLxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9IZWxsbyBBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUSGZOi51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUSHC9x11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUSHo6aR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUSH11JV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVnDVZ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVnQkUB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVnahbR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9zYWxtYWtoYXRlci9Xb3JrU3BhY2UvQWtrYSBDb3Vyc2UvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYA5oAu91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAjy9Vc2Vycy9jYXJsb3NhdmlsYS9JZGVhUHJvamVjdHMvY29kZSAtIExlYXJuaW5nIFBhdGggQWtrYSBCdWlsZGluZyBBcHBsaWNhdGlvbnMgYW5kIE1pY3Jvc2VydmljZXMvc2VjdGlvbjEvSGVsbG8gQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
