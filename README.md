@@ -91,4 +91,6 @@ https://lh3.googleusercontent.com/wCywzsdlzfaZzu2sg9BCWI-7C4b1S6M2w0IyTiX6E4QYV5
 
 # References
 - https://www.udemy.com/learning-path-akka-building-applications-and-microservices
+- https://www.udemy.com/learning-path-microservices-with-java-scala-and-akka
+- https://www.udemy.com/learning-akka
 
