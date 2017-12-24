@@ -18,6 +18,21 @@ Run Tests
 sbt test
 ```
 
+##### Multi-Project sbt
+List Projects
+```
+sbt projects
+```
+
+Run Project
+```
+sbt "project myAmazingProject" run
+```
+Run Tests
+```
+sbt "project myAmazingProject" test
+```
+
 # Documentation Resources & Repos
 - General                                     - https://akka.io/docs/
 - Actors Become/Unbecome                      - https://doc.akka.io/docs/akka/snapshot/actors.html?language=scala#Become_Unbecome
